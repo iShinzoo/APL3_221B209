@@ -19,3 +19,4 @@ class Voice2 {
         prepareVoice();
         hear();
     }
+}
